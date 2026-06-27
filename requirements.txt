@@ -1,8 +1,8 @@
-flask==3.0.3
-flask-cors==4.0.1
-gunicorn==21.2.0
-numpy==1.26.4
-opencv-python-headless==4.9.0.80
-scikit-image==0.22.0
-scikit-learn==1.4.2
-joblib==1.4.2
+flask
+flask-cors
+gunicorn
+numpy<2.0
+opencv-python-headless
+scikit-image
+scikit-learn
+joblib
